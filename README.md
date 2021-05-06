@@ -1,2 +1,2 @@
 # Logistic-Regression
-Partitioning data and logistic regression.
+Data partitioning and logistic regression.
